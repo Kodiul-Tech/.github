@@ -1,6 +1,5 @@
 # Kodiul Tech 
 
-![Organization Logo](https://github.com/Kodiul-Tech/.github/assets/172464388/f56e9e7c-c827-42d5-8500-c795c94983a0)
 
 ## About Us
 
